@@ -43,7 +43,7 @@ async def Commands(ctx):
     previousButton.callback = previous_callback
     nextButton.callback = next_callback
 
-    myview = View(timeout=180)
+    myview = View(timeout=200)
     myview.add_item(previousButton)
     myview.add_item(nextButton)
 
