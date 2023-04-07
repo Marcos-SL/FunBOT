@@ -1,0 +1,17 @@
+{
+    "Animals pics commands" : {
+        "dog" : "cute dog pic w/ some curiosity :D",
+        "panda" : "cute panda pic w/ some curiosity :D",
+        "bird" : "cute bird pic w/ some curiosity :D",
+        "redpanda" : "cute redpanda pic w/ some curiosity :D"
+    },
+    "Anime commands" : {
+        "hug" : "cute hug anime pic /o/",
+        "facepalm" : "facepalm anime pic -_-",
+        "quote" : "some anime quotes"
+    },
+    "userful commands" : {
+        "commands" : "this -_-",
+        "hi" : "hola"
+    }
+}
